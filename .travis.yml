@@ -7,11 +7,6 @@ cache: yarn
 
 git:
   depth: 1
-  submodules: false
-
-branches:
-  only:
-    - dev
 
 install:
   - yarn install
