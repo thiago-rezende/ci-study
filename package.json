@@ -15,7 +15,6 @@
   "author": "Thiago Rezende",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^5.16.0",
     "jest": "^24.7.1"
   }
 }
